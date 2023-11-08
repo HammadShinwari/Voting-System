@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #bbb8b8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.container{
+    padding-top: 10vw;
+    color: #333232;
+}
+#friend{
+    padding-top: 2vw;
+}
+#addFriend{
+    padding: 5px 30px 5px 5px;
+    border-radius: 5px;
+    border: none;
+    font-size: 17px;
+}
+#addNew{
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+#addNew:hover{
+    background: rgb(4, 240, 4);
+}
+#output{
+    padding-left: 45vw;
+    padding-top: 2vw;
+}
